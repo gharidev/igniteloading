@@ -1,0 +1,4 @@
+[13-Jan-2020 08:43:01 UTC] PHP Notice:  Undefined index: ORDER_ID in /home/lfmktf3up90a/public_html/paytmgen/generateChecksum.php on line 39
+[13-Jan-2020 08:43:07 UTC] PHP Notice:  Undefined index: ORDER_ID in /home/lfmktf3up90a/public_html/paytmgen/generateChecksum.php on line 39
+[13-Jan-2020 17:21:59 UTC] PHP Notice:  Undefined index: ORDER_ID in /home/lfmktf3up90a/public_html/paytmgen/generateChecksum.php on line 39
+[14-Jan-2020 16:05:18 UTC] PHP Notice:  Undefined index: ORDER_ID in /home/lfmktf3up90a/public_html/paytmgen/generateChecksum.php on line 39
